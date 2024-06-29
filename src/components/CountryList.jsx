@@ -1,11 +1,13 @@
-import React from 'react';
 import { nanoid } from 'nanoid';
+import { useCities } from '../context/CitiesContext';
+import styles from './CountryItem.module.css';
 import Spinner from './Spinner';
 import CountryItem from './CountryItem';
 import Message from './Message';
-import styles from './CountryItem.module.css';
 
-const CountryList = ({ cities, isLoading }) => {
+const CountryList = () => {
+  const { cities, isLoading } = useCities();
+
   if (isLoading) return <Spinner />;
 
   if (!cities.length)
