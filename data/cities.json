@@ -1,64 +1,76 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "id": "6ffa",
+      "cityName": "Corleone",
+      "country": "Italy",
+      "emoji": "🇮🇹🇦🇱🇾",
+      "date": "2024-06-30T18:02:07.965Z",
+      "notes": "asdasd",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
+        "lat": "37.80976751122364",
+        "lng": "13.298616061168108"
+      }
     },
     {
-      "cityName": "Madrid",
+      "id": "74ca",
+      "cityName": "Ramacca",
+      "country": "Italy",
+      "emoji": "🇮🇹🇦🇱🇾",
+      "date": "2024-06-30T18:11:57.257Z",
+      "notes": "adasd",
+      "position": {
+        "lat": "37.373146613756155",
+        "lng": "14.653845901534492"
+      }
+    },
+    {
+      "id": "5fcf",
+      "cityName": "Cusano Mutri",
+      "country": "Italy",
+      "emoji": "🇮🇹🇦🇱🇾",
+      "date": "2024-07-01T17:33:48.124Z",
+      "notes": "dsfdsf",
+      "position": {
+        "lat": "41.37847490378977",
+        "lng": "14.498151153021558"
+      }
+    },
+    {
+      "id": "d146",
+      "cityName": "Talamanca de Jarama",
       "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "emoji": "🇸🇵🇦🇮🇳",
+      "date": "2024-07-01T17:34:09.852Z",
+      "notes": "sdfsdf",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
+        "lat": "40.72958306752782",
+        "lng": "-3.518374657812041"
+      }
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 565465
-    },
-    {
-      "cityName": "Madrid",
+      "id": "f0eb",
+      "cityName": "Huelamo",
       "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "emoji": "🇸🇵🇦🇮🇳",
+      "date": "2024-07-01T17:37:28.615Z",
+      "notes": "sadasd",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 156467
+        "lat": "40.31666278725437",
+        "lng": "-1.7815700814500637"
+      }
+    },
+    {
+      "id": "3a35",
+      "cityName": "Viso del Marques",
+      "country": "Spain",
+      "emoji": "🇸🇵🇦🇮🇳",
+      "date": "2024-07-01T17:37:57.373Z",
+      "notes": "sadsadasd",
+      "position": {
+        "lat": "38.41543246094489",
+        "lng": "-3.4942804332977517"
+      }
     }
   ]
 }
