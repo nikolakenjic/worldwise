@@ -49,18 +49,6 @@
       }
     },
     {
-      "id": "f0eb",
-      "cityName": "Huelamo",
-      "country": "Spain",
-      "emoji": "🇸🇵🇦🇮🇳",
-      "date": "2024-07-01T17:37:28.615Z",
-      "notes": "sadasd",
-      "position": {
-        "lat": "40.31666278725437",
-        "lng": "-1.7815700814500637"
-      }
-    },
-    {
       "id": "3a35",
       "cityName": "Viso del Marques",
       "country": "Spain",
@@ -70,6 +58,18 @@
       "position": {
         "lat": "38.41543246094489",
         "lng": "-3.4942804332977517"
+      }
+    },
+    {
+      "id": "f9f6",
+      "cityName": "Valle de la Serena",
+      "country": "Spain",
+      "emoji": "🇸🇵🇦🇮🇳",
+      "date": "2024-07-03T18:42:37.154Z",
+      "notes": "sadsa",
+      "position": {
+        "lat": "38.70778070849935",
+        "lng": "-5.846155538268595"
       }
     }
   ]
